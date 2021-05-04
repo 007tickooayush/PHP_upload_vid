@@ -36,6 +36,7 @@ if (isset($_POST['upload'])) {
     <title>UPLOAD_VID</title>
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
 </head>
+
 <body>
     <div class="container mt-3">
         <h1 class="mb-5 text-center">UPLOAD VIDEO </h1>

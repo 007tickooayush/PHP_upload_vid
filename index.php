@@ -8,6 +8,7 @@
     <title>Home</title>
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
 </head>
+
 <body>
     <div class="container mt-3 mb-5">
         <h1>All Videos:</h1>
