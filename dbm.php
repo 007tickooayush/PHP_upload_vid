@@ -7,3 +7,4 @@ if(!$conn) {
     echo "connection established";
 }
 
+?>
