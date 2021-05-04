@@ -20,7 +20,7 @@
 
             $q = "SELECT * FROM video";
 
-            $query = mysqli_query($conn,$q);
+            $query = mysqli_query($conn, $q);
 
             while ($row = mysqli_fetch_array($query)){ ?>
 
