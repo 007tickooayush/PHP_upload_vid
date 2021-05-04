@@ -22,7 +22,7 @@
 
             $query = mysqli_query($conn, $q);
 
-            while ($row = mysqli_fetch_array($query)){ ?>
+            while ($row = mysqli_fetch_array($query)) { ?>
 
             <div class="col-md-4">
                 <video width="100%" controls>
